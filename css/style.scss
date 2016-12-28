@@ -141,6 +141,15 @@ body {
 
   }
 }
+.container {
+    &.about {
+      text-align: right;
+      
+    .about-textos {
+      width: 50%;
+    }
+  }
+}
 
 
 

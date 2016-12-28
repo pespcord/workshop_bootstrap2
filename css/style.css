@@ -113,3 +113,8 @@ body {
 
 .row .container .foto {
   width: 100%; }
+
+.container.about {
+  text-align: right; }
+  .container.about .about-textos {
+    width: 50%; }
